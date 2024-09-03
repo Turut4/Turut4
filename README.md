@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Turuta</h1>
 <h3 align="center">A passionate Backend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB and NestJS**
+- 🌱 I’m currently learning **TypeScript, NestJS**
 
 - 📫 How to reach me **lcas.turuta@gmail.com**
 
