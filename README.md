@@ -3,10 +3,10 @@
 
 <div align="center">
   <p> 
-    - 🌱 I’m currently learning TypeScript, NestJS
+    - 🌱 I’m currently learning <strong>TypeScript, NestJS</strong>
   </p>
   <p>
-      - 📫 How to reach me **lcas.turuta@gmail.com**
+      - 📫 How to reach me <a href="mailto:lcas.turuta@gmail.com">lcas.turuta@gmail.com</a>
   </p>
 
 </div>
