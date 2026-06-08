@@ -38,11 +38,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-
----
-
-### 📊 Estatísticas e Linguagens
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%" />
-</p>
