@@ -41,9 +41,6 @@
 
 ---
 
-### 📊 Estatísticas e Atividade
----
-
 ### 📊 Estatísticas e Linguagens
 
 <p align="center">
