@@ -51,3 +51,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turut4&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turut4&layout=compact&theme=radial&langs_count=6" alt="Top Languages" />
+</p>
