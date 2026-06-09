@@ -1,40 +1,106 @@
-<h1 align="center">Hi 👋, I'm Lucas Turuta</h1>
-<h3 align="center">A passionate Backend Developer from Brazil 🇧🇷</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=turut4&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="Lucas Turuta" />
+<a href="https://github.com/turut4"><img src="https://img.shields.io/github/followers/turut4?label=followers&style=social"/></a>
+</p>
+
+## Hello 👋
+
+### All About Me 👤
+- 🤵 My name is `Lucas Turuta Araujo`
+- 🗣️ People call me `Lucas`
+- 🏡 I live in `Brazil`
+- 🏫 `Backend & Automation` developer
+- 🌐 My LinkedIn is <a href="https://www.linkedin.com/in/lucas-turuta">https://www.linkedin.com/in/lucas-turuta</a>
+
+<a href="https://github.com/turut4">
+  <img width="888" height="10" alt="split" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</a>
+
+### 🔧 Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+  </tr>
+</table>
+
+![icon-collection](https://stats.pphat.top/icons?name=go,docker,git,github,json,linux,neovim,python,csharp,arduino,&columns=20)
+
+<!-- Programming Languages & Frameworks -->
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.dot-js&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat&logo=cshrp&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](#)
+<!-- Dev Tools & Infrastructure -->
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](#)
+
+### 🖥️ Display Server & Window Management
+[![Wayland](https://img.shields.io/badge/Wayland-blue?style=flat&logo=wayland&logoColor=white)](#)
+[![Niri](https://img.shields.io/badge/Niri-Scrollable_WM-blueviolet?style=flat)](#)
+
+<a href="https://github.com/turut4">
+  <img width="888" height="10" alt="split" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</a>
+
+### ⚙️ Development Tools & Environment
+- 🖊️ Text Editor & IDE:
+  - Neovim (Main / Personal Configuration)
+  - VsCode
+- 💻 Environment Stuff:
+  - Linux Ecosystem
+  - Wayland Display Server
+  - Niri Tile Window Manager
+  - Docker Containerization
+
+<div align="center">
+
+### Github 🏆 Trophy
+[![trophy](https://github-profile-repo.vercel.app/?username=turut4&theme=flat&row=1&column=9)](https://github-profile-repo.vercel.app)
+
+<details>
+<summary><b>GitHub stats</b></summary>
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turut4&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turut4&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=turut4&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=turut4&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=turut4&theme=swift)
+
+</details>
+
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-turuta-6057802b1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lcas.turuta@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 🚀 Sobre Mim
-
-- 💻 Desenvolvedor focado em construir arquiteturas de Back-end robustas, escaláveis e eficientes.
-- 🌱 **Atualmente focado em:** TypeScript, NestJS e expandindo conhecimentos no ecossistema de microsserviços.
-- ⚙️ **No meu canivete suíço:** Java (Spring Boot), Go (Golang), Node.js e Bancos de Dados.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<h4 align="left">Linguagens e Frameworks Back-end:</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" />
-</p>
-
-<h4 align="left">Banco de Dados & Infra:</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <a href="https://github.com/turut4">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=5a5f77&size=24&center=true&vCenter=true&width=450&duration=5000&lines=Thank+you+for+visiting+." alt="thank-you" />
+ </a> 
 </p>
