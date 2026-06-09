@@ -11,9 +11,7 @@
 - 🏫 `Backend & Automation` developer
 - 🌐 My LinkedIn is <a href="https://www.linkedin.com/in/lucas-turuta">https://www.linkedin.com/in/lucas-turuta</a>
 
-<a href="https://github.com/turut4">
-  <img width="888" height="10" alt="split" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-</a>
+---
 
 ### 🔧 Technologies & Tools
 
@@ -66,9 +64,7 @@
 [![Wayland](https://img.shields.io/badge/Wayland-blue?style=flat&logo=wayland&logoColor=white)](#)
 [![Niri](https://img.shields.io/badge/Niri-Scrollable_WM-blueviolet?style=flat)](#)
 
-<a href="https://github.com/turut4">
-  <img width="888" height="10" alt="split" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-</a>
+---
 
 ### ⚙️ Development Tools & Environment
 - 🖊️ Text Editor & IDE:
